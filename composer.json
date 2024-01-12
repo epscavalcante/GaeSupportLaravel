@@ -1,11 +1,11 @@
 {
-    "name": "a1comms/gae-support-laravel",
+    "name": "epscavalcante/gae-support-laravel",
     "description": "Google App Engine Standard Environment runtime support for Laravel apps",
     "license": "MIT",
     "authors": [
         {
-            "name": "Samuel Melrose",
-            "email": "sam.melrose@a1comms.com"
+            "name": "Eduardo Cavalcante",
+            "email": "eduardo.ps.cavalcante@gmail.com"
         }
     ],
     "require": {
